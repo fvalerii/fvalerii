@@ -2,7 +2,7 @@
 
 ## 🤖 AI Engineer
 
-I am a highly analytical AI Engineer specializing in **Generative AI, LLMs, and Deep Learning**. My background combines over 1.5 years of intensive, hands-on training in AI with **previous multiyear experience** in Strategic Consulting, Banking, and Asset Management.
+I am a highly analytical AI Engineer specializing in **Generative AI, LLMs, and Deep Learning**. My background combines over 1.5 years of intensive, hands-on training in AI with **previous multiyear experience** in Strategic Consulting, Banking, and Asset Management. I'm driven by a passion for solving complex problems and participating in the wave that will define the next generation of technology.
 
 My current focus is on designing, developing, and deploying scalable AI solutions. I have expert proficiency in **Python** and leading deep learning frameworks like **LangChain, PyTorch, and TensorFlow**, and I'm committed to building production-ready systems grounded in performance and data best practices.
 
@@ -11,6 +11,12 @@ My current focus is on designing, developing, and deploying scalable AI solution
 * **Email:** `fvalerii@gmail.com`
 * **LinkedIn:** [linkedin.com/in/fabriziovalerii](https://www.linkedin.com/in/fabriziovalerii)
 * **Location:** Panama City, Panama
+
+### 🗣️ Languages
+
+I am a polyglot with fluency or proficiency in 6 languages.
+
+*(English, Italian, Spanish, Portuguese, French, German)*
 
 ---
 
