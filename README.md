@@ -16,7 +16,7 @@ I don't just build models; I architect production-ready AI systems where technic
 
 ## 🛠️ MMy Research & Engineering Stack
 
-* **GGenerative & Agentic AI:** LangChain (LCEL/Agentic), Model Context Protocol (MCP), Diffusion Models, IBM Watsonx, Semantic Reranking, Prompt Engineering (XML Grounding).
+* **Generative & Agentic AI:** LangChain (LCEL/Agentic), Model Context Protocol (MCP), Diffusion Models, IBM Watsonx, Semantic Reranking, Prompt Engineering (XML Grounding).
 * **Computer Vision:** Vision Transformers (ViT), Hybrid CNN-ViT Architectures, ResNet, Image Processing (OpenCV).
 * **Deep Learning & Probabilistic:** PyTorch, TensorFlow/Keras, TensorFlow Probability, VAEs, Normalizing Flows, Seq2Seq (LSTM).
 * **Classic ML & Analytics:** XGBoost, Random Forest, Predictive Modeling, Threshold Optimization (Precision-Recall tuning).
