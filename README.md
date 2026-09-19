@@ -2,9 +2,9 @@
 
 ## 🤖 AI Engineer & Agentic Systems Architect
 
-I am a highly analytical AI Engineer specializing in Generative AI, Agentic Workflows (MCP, Multi-Agent Orchestration), and Deep Learning. My professional edge is built on the intersection of rigorous technical research and a multiyear corporate career in Strategic Consulting and Global Finance (Citibank, UniCredit, PwC).
+I am an AI Engineer and Agentic Systems Architect specializing in Generative AI, Agentic Workflows (MCP, Multi-Agent Orchestration), and Deep Learning. My professional edge is built on the intersection of rigorous technical research and over 20 years of experience in Strategic Consulting and Global Finance (Citibank, UniCredit, PwC).
 
-Over the last 2.5 years of intensive engineering immersion, I have transitioned from evaluating strategic equity to architecting production-ready AI systems. I don't just build models; I design deterministic, fault-tolerant pipelines where technical precision meets business governance.
+Over the last 3 years of intensive engineering and advanced data analytics immersion, I have transitioned from evaluating strategic equity to architecting production-ready AI systems. I don't just build models; I design deterministic, fault-tolerant pipelines where technical precision meets business governance.
 
 ### 📫 How to Reach Me
 
@@ -26,17 +26,28 @@ Over the last 2.5 years of intensive engineering immersion, I have transitioned 
 
 ##🚀 High-Impact Portfolio & Hackathons
 
+
+### **1. Deterministic Affordability Agent — Hybrid LLM Pipeline** *(Sep 2026)*
+* **Associated With:** HackerRank Orchestrate Hackathon — Bronze Medal (Ranked 422 / 3,062)
+* **Core Logic:** Hybrid deterministic-plus-LLM financial pipeline.
+* **Achievements:** Architected an affordability agent to evaluate user cash flow, simulate 90-day forecasts, and generate personalized payment schedules. Constrained Claude Sonnet 4.6 exclusively to multimodal vision tasks and NLP explanation, strictly routing all mathematical ledger operations through Python to eliminate financial hallucination.
+
+### **2. Message Notification Router — Multimodal AI Pipeline** *(Aug 2026)*
+* **Associated With:** HackerRank Orchestrate Hackathon — Ranked 383 / 1,983
+* **Core Logic:** Sonnet 5 structured-output reasoning & Gemini 2.5 Flash transcription.
+* **Achievements:** Engineered deterministic security guardrails to block prompt-injection and scam heuristics prior to LLM execution, achieving 100% hard-muting of adversarial rows without wasting API calls. Optimized the system prompt to 2,400 tokens (a 40.5% reduction) while maintaining near-perfect action accuracy and zero hallucinated historical evidence IDs.
+
+### **3. Multi-Modal Evidence Review — Agentic Vision Pipeline** *(Jun 2026)*
+* **Associated With:** HackerRank Orchestrate Hackathon — Bronze Medal (Ranked 209 / 1,773)
+* **Core Logic:** Deterministic, state-graphed agentic vision pipeline.
+* **Achievements:** Built a production-minded system to verify insurance-style damage claims by synthesizing images, chat logs, and user history. Designed with strict Pydantic schemas, safety guardrails, provider failover mechanisms, and a mocked end-to-end evaluation suite running offline in $\sim 2$ seconds.
+
 ### **1. TireForge Predictive Maintenance — Multi-Agent AI System** *(Jun–Jul 2026)*
 * **Associated With:** Agent Master - Digital Agentic AI Hackathon (Founderz)
 * **Core Logic:** Real-time multi-agent orchestration built on Azure AI Foundry.
 * **Achievements:** Engineered a production-grade system to automate industrial fault diagnosis. Features Agentic RAG grounded in official equipment manuals, dynamic external database queries for live spare-part inventory, and a strict Human-in-the-Loop (HITL) approval gate before autonomously opening CMMS work orders.
 
-### **2. Multi-Modal Evidence Review — Agentic Vision Pipeline** *(Jun 2026)*
-* **Associated With:** HackerRank Orchestrate (24-hour Hackathon)
-* **Core Logic:** Deterministic, state-graphed agentic vision pipeline.
-* **Achievements:** Built a production-minded system to verify insurance-style damage claims by synthesizing images, chat logs, and user history. Designed with strict Pydantic schemas, safety guardrails, provider failover mechanisms, and a mocked end-to-end evaluation suite running offline in $\sim 2$ seconds.
-
-### **3. Agentic Q&A System: LangGraph & Multi-Agent Orchestration**
+### **4. Agentic Q&A System: LangGraph & Multi-Agent Orchestration**
 * **Core Logic:** Self-correcting retrieval workflow with Multi-Tenant Isolation.
 * **Achievements:** Architected a pipeline utilizing IBM Watsonx and a Granite-4 verification loop to eliminate hallucinations. Implemented Docling and hybrid retrieval (BM25 + ChromaDB) to automate high-fidelity technical document synthesis.
 
@@ -57,8 +68,6 @@ Over the last 2.5 years of intensive engineering immersion, I have transitioned 
   * *Completed:* **Probability - The Science of Uncertainty (6.431x)**, **Machine Learning with Python (6.86x)**, and **Learning Time Series with Interventions (IDS.S24x)**.
 * **STATSX0001:** Statistical Learning (Stanford Online)
 * **MSc in Management Engineering** (Politecnico di Milano)
-* **MITx Micromasters in Statistics and Data Science** (In Progress, MIT/edX)
-  * Completed: **Probability - The Science of Uncertainty (6.431x)**, **Machine Learning with Python (6.86x)**, **Learning Time Series with Interventions (IDS.S24x)**.
 
 ---
 
